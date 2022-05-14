@@ -1,0 +1,169 @@
+* {
+    margin: 0;
+    padding: 0;
+	font-family: "Times New Roman", serif;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+	background-color: #D008F7;
+}
+
+li {
+    float: left;
+}
+
+li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    padding: 14px 30px;
+    text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+    background-color: #08A7F7;
+}
+
+li.dropdown {
+    display: inline-block;
+}
+
+.active {
+    background-color: #2FF708;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #D008F7;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: #08A7F7;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.main-header {
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.sub-header {
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 20px;
+    font-style: italic;
+}
+
+.info {
+	margin: 40px;
+	font-size: 20px;
+	padding: 10px;
+}
+
+.rs-image {
+	width: 200px;
+	height: auto;
+	float: right;
+	padding-right: 100px;
+	padding-top: 20px;
+}
+
+.ls-image {
+	width: 130px;
+	height: auto;
+	float: left;
+	padding-left: 100px;
+	padding-top: 20px;
+}
+
+table caption{
+	font-size: 24px;
+	padding-bottom: 20px;
+	text-decoration-line: underline;
+}
+
+table, td, tr , th{
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid black;
+	border-collapse: collapse;
+	font-size: 20px;
+	font-family: inherit;
+	padding: 10px 30px;
+}
+
+p a:link, p a:visited, table a:link, table a:visited {
+	color: #D008F7;
+}
+
+tr:nth-child(even) {
+	background-color: #08A7F7;
+	color: white;
+}
+
+tr:nth-child(even) a {
+	color: white;
+}
+
+.invisible-table table,.invisible-table td, .invisible-table tr{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	border-style: none;
+	background-color: transparent;
+	font-size: 40px;
+	color: black;
+	padding: 20px;
+}
+
+.match {
+	margin: auto;
+	text-align: center;
+	padding: 10px;
+	font-size: 40px;
+}
+
+.vs {
+	font-size: 40px;
+	text-align: center;
+	font-family: copperplate, impact, fantasy;
+}
+
+.footer {
+	background-color: #D008F7;
+	width: 100%;
+	min-height: 200px;
+}
+
+.footer p{
+	color: white;
+	text-align: center;
+	font-size: 20px;
+	padding-top: 30px;
+}
+
+.footer p a{
+	color: #2FF708;
+}
