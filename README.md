@@ -10,7 +10,7 @@ The project is comprised of five main parts:
 4. Weekly Descriptions - This folder holds the html files for the each of the 4 weekly descriptions.
 5. Results - This folder holds the html files for the results of each of the 4 sets of matches. It also contains the html file for the leaderboard.
 
-##Installation  
+## Installation  
 No installations are required for this project.
 
 ## Usage  
