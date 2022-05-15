@@ -17,7 +17,7 @@ No installations are required for this project.
 \>cd May Fitness Tournament  
 \>"may_fitness_tournament_home.html"  
 
-Navigate to the weekly descriptions, weekly results, or leaderboard using the navigation bar at the top of the page.
+Navigate to weekly descriptions, weekly results, or the leaderboard using the navigation bar at the top of the page.
 
 ## Credits  
 May Fitness Tournament Organizer: Fiona Cheng  
