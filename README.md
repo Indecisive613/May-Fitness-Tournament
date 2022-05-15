@@ -1,7 +1,7 @@
 # May Fitness Tournament Website
 
 ## Description
-The May Fitness Tournament was a physical fitness competition for teams of students and teachers at Ottawa Carleton Virtual Secondary School. Each of the four weeks in the Tournament had a different theme. This website provides a detailed overview of the event, descriptions for each of the weeka and the results of the competition.
+The May Fitness Tournament was a physical fitness competition for teams of students and teachers at Ottawa Carleton Virtual Secondary School. Each of the four weeks in the Tournament had a different theme. This website provides a detailed overview of the event, descriptions for each of the weeks and the results of the competition.
 
 The project is comprised of five main parts:  
 1. may_fitness_tournament_home.html - The homepage of the May Fitness Tournament website, and the recommended starting point for users.  
