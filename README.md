@@ -4,11 +4,15 @@
 The May Fitness Tournament was a physical fitness competition for teams of students and teachers at Ottawa Carleton Virtual Secondary School. Each of the four weeks in the Tournament had a different theme. This website provides a detailed overview of the event, descriptions for each of the weeks and the results of the competition.
 
 The project is comprised of five main parts:  
-1. index.html - The homepage of the May Fitness Tournament website.
+1. index.html - The homepage of the May Fitness Tournament website.  
+![image](https://user-images.githubusercontent.com/83597131/174091094-7a322332-18a4-4285-af75-9cd862040d84.png)
 2. stylesheet.css - The stylesheet that defines the styles for all the html pages.
 3. Visual Aids - The folder containing all the visual aids used on the website. This includes pngs, gifs, and the favicon image.
-4. Weekly Descriptions - The folder which holds the html files for the each of the 4 weekly descriptions.
-5. Results - The folder which holds the html files for the results of each of the 4 sets of matches. This also contains the html file for the leaderboard.
+4. Weekly Descriptions - The folder which holds the html files for the each of the 4 weekly descriptions.  
+![image](https://user-images.githubusercontent.com/83597131/174091262-eab5e0d3-6361-46c5-b3a4-778dffd32785.png)
+5. Results - The folder which holds the html files for the results of each of the 4 sets of matches. This also contains the html file for the leaderboard.  
+![image](https://user-images.githubusercontent.com/83597131/174091382-27167de9-abf6-425f-b21c-e62efb84b1ce.png)  
+![image](https://user-images.githubusercontent.com/83597131/174091528-a505ee41-e96c-466a-87a1-793e1fb5b556.png)
 
 ## Installation  
 No installations are required for this project.
