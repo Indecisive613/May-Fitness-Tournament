@@ -26,4 +26,4 @@ Navigate to weekly descriptions, weekly results, or the leaderboard using the na
 ## Credits  
 May Fitness Tournament Organizer: Fiona Cheng  
 May Fitness Tournament Website Developer: Fiona Cheng  
-Last edit: May 20, 2022
+Last edit: June 16, 2022
